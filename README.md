@@ -11,3 +11,4 @@
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                       | [Python](./leetcode/python/0014-Longest-Common-Prefix/LongestCommonPrefix.py)                   | Easy       |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./leetcode/python/0019-Remove-Nth-Node-From-End-of-List/RemoveNthNodeFromEndofList.py) | Medium     |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                               | [Python](./leetcode/python/0020-Valid-Parentheses/ValidParentheses.py)                          | Easy       |
+| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                     | [Python](./leetcode/python/0021-Merge-Two-Sorted-Lists/MergeTwoSortedLists.py)                  | Easy       |
