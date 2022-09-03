@@ -12,3 +12,4 @@
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./leetcode/python/0019-Remove-Nth-Node-From-End-of-List/RemoveNthNodeFromEndofList.py) | Medium     |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                               | [Python](./leetcode/python/0020-Valid-Parentheses/ValidParentheses.py)                          | Easy       |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                     | [Python](./leetcode/python/0021-Merge-Two-Sorted-Lists/MergeTwoSortedLists.py)                  | Easy       |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/)                                       | [Python](./leetcode/python/0038-Count-and-Say/CountandSay.py)                                   | Medium     |
