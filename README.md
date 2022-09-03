@@ -24,3 +24,4 @@
 | 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)                 | [Python](./leetcode/python/0138-Copy-List-with-Random-Pointer/CopyListwithRandomPointer.py)                | Medium     |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                         | [Python](./leetcode/python/0141–Linked-List-Cycle/LinkedListCycle.py)                                      | Easy       |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                   | [Python](./leetcode/python/0142–Linked-List-Cycle-II/LinkedListCycleII.py)                                 | Medium     |
+| 0148 | [Sort List](https://leetcode.com/problems/sort-list/)                                                         | [Python](./leetcode/python/0148-Sort-List/SortList.py)                                                     | Medium     |
