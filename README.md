@@ -18,3 +18,4 @@
 | 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/)                                                 | [Python](./leetcode/python/0071-Simplify-Path/SimplifyPath.py)                                             | Medium     |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                     | [Python](./leetcode/python/0075-Sort-Colors/SortColors.py)                                                 | Medium     |
 | 0082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python](./leetcode/python/0082-Remove-Duplicates-from-Sorted-List-II/RemoveDuplicatesfromSortedListII.py) | Medium     |
+| 0086 | [Partition List](https://leetcode.com/problems/partition-list/)                                               | [Python](./leetcode/python/0086-Partition-List/PartitionList.py)                                           | Medium     |
