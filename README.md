@@ -23,3 +23,4 @@
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)             | [Python](./leetcode/python/0121-Best-Time-to-Buy-and-Sell-Stock/BestTimetoBuyandSellStock.py)              | Easy       |
 | 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)                 | [Python](./leetcode/python/0138-Copy-List-with-Random-Pointer/CopyListwithRandomPointer.py)                | Medium     |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                         | [Python](./leetcode/python/0141–Linked-List-Cycle/LinkedListCycle.py)                                      | Easy       |
+| 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                   | [Python](./leetcode/python/0142–Linked-List-Cycle-II/LinkedListCycleII.py)                                 | Medium     |
