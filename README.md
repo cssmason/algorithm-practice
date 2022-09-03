@@ -13,3 +13,4 @@
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                               | [Python](./leetcode/python/0020-Valid-Parentheses/ValidParentheses.py)                          | Easy       |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                     | [Python](./leetcode/python/0021-Merge-Two-Sorted-Lists/MergeTwoSortedLists.py)                  | Easy       |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/)                                       | [Python](./leetcode/python/0038-Count-and-Say/CountandSay.py)                                   | Medium     |
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                 | [Python](./leetcode/python/0053-Maximum-Subarray/ＭaximumSubarray.py)                           | Medium     |
