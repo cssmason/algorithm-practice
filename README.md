@@ -22,3 +22,4 @@
 | 0092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)                               | [Python](./leetcode/python/0092–Reverse–Linked-List-II/ReverseLinkedListII.py)                             | Medium     |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)             | [Python](./leetcode/python/0121-Best-Time-to-Buy-and-Sell-Stock/BestTimetoBuyandSellStock.py)              | Easy       |
 | 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)                 | [Python](./leetcode/python/0138-Copy-List-with-Random-Pointer/CopyListwithRandomPointer.py)                | Medium     |
+| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                         | [Python](./leetcode/python/0141–Linked-List-Cycle/LinkedListCycle.py)                                      | Easy       |
