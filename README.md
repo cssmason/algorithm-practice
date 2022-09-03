@@ -15,3 +15,4 @@
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/)                                       | [Python](./leetcode/python/0038-Count-and-Say/CountandSay.py)                                   | Medium     |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                 | [Python](./leetcode/python/0053-Maximum-Subarray/ＭaximumSubarray.py)                           | Medium     |
 | 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/)                                           | [Python](./leetcode/python/0061-Rotate-List/RotateList.py)                                      | Medium     |
+| 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/)                                       | [Python](./leetcode/python/0071-Simplify-Path/SimplifyPath.py)                                  | Medium     |
