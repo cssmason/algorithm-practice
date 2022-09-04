@@ -50,3 +50,4 @@
 | 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)                 | [Python](./leetcode/python/0350-Intersection-of-Two-Arrays-II/IntersectionofTwoArraysII.py)                | Easy       |
 | 0385 | [Mini Parser](https://leetcode.com/problems/mini-parser/)                                                     | [Python](./leetcode/python/0385-Mini-Parser/MiniParser.py)                                                 | Medium     |
 | 0394 | [Decode String](https://leetcode.com/problems/decode-string/)                                                 | [Python](./leetcode/python/0394-Decode-String/DecodeString.py)                                             | Medium     |
+| 0401 | [Binary Watch](https://leetcode.com/problems/binary-watch/)                                                   | [Python](./leetcode/python/0401-Binary-Watch/BinaryWatch.py)                                               | Easy       |
