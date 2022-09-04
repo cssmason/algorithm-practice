@@ -28,3 +28,4 @@
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)           | [Python](./leetcode/python/0150-Evaluate-Reverse-Polish-Notation/EvaluateReversePolishNotation.py)         | Medium     |
 | 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                           | [Python](./leetcode/python/0152-Maximum-Product-Subarray/MaximumProductSubarray.py)                        | Medium     |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/)                                                         | [Python](./leetcode/python/0155-Min-Stack/MinStack.py)                                                     | Medium     |
+| 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)           | [Python](./leetcode/python/0160-Intersection-of-Two-Linked-Lists/IntersectionofTwoLinkedLists.py)          | Easy       |
