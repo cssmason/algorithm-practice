@@ -35,3 +35,4 @@
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                       | [Python](./leetcode/python/0205-Isomorphic-Strings/IsomorphicStrings.py)                                   | Easy       |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                     | [Python](./leetcode/python/0206-Reverse-Linked-List/ReverseLinkedList.py)                                  | Easy       |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                       | [Python](./leetcode/python/0217-Contains-Duplicate/ContainsDuplicate.py)                                   | Easy       |
+| 0225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                   | [Python](./leetcode/python/0225-Implement-Stack-using-Queues/ImplementStackusingQueues.py)                 | Easy       |
