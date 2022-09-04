@@ -44,3 +44,4 @@
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                 | [Python](./leetcode/python/0242-Valid-Anagram/ValidAnagram.py)                                             | Easy       |
 | 0316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)                           | [Python](./leetcode/python/0316-Remove-Duplicate-Letters/RemoveDuplicateLetters.py)                        | Medium     |
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                   | [Python](./leetcode/python/0328-Odd-Even-Linked-List/OddEvenLinkedList.py)                                 | Medium     |
+| 0341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)                   | [Python](./leetcode/python/0341-Flatten-Nested-List-Iterator/FlattenNestedListIterator.py)                 | Medium     |
