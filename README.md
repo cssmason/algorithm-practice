@@ -25,3 +25,4 @@
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                         | [Python](./leetcode/python/0141–Linked-List-Cycle/LinkedListCycle.py)                                      | Easy       |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                   | [Python](./leetcode/python/0142–Linked-List-Cycle-II/LinkedListCycleII.py)                                 | Medium     |
 | 0148 | [Sort List](https://leetcode.com/problems/sort-list/)                                                         | [Python](./leetcode/python/0148-Sort-List/SortList.py)                                                     | Medium     |
+| 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)           | [Python](./leetcode/python/0150-Evaluate-Reverse-Polish-Notation/EvaluateReversePolishNotation.py)         | Medium     |
