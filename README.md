@@ -34,3 +34,4 @@
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                     | [Python](./leetcode/python/0203-Remove-Linked-List-Elements/RemoveLinkedListElements.py)                   | Easy       |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                       | [Python](./leetcode/python/0205-Isomorphic-Strings/IsomorphicStrings.py)                                   | Easy       |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                     | [Python](./leetcode/python/0206-Reverse-Linked-List/ReverseLinkedList.py)                                  | Easy       |
+| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                       | [Python](./leetcode/python/0217-Contains-Duplicate/ContainsDuplicate.py)                                   | Easy       |
