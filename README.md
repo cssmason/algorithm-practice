@@ -26,3 +26,4 @@
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                   | [Python](./leetcode/python/0142–Linked-List-Cycle-II/LinkedListCycleII.py)                                 | Medium     |
 | 0148 | [Sort List](https://leetcode.com/problems/sort-list/)                                                         | [Python](./leetcode/python/0148-Sort-List/SortList.py)                                                     | Medium     |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)           | [Python](./leetcode/python/0150-Evaluate-Reverse-Polish-Notation/EvaluateReversePolishNotation.py)         | Medium     |
+| 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                           | [Python](./leetcode/python/0152-Maximum-Product-Subarray/MaximumProductSubarray.py)                        | Medium     |
