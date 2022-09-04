@@ -29,3 +29,4 @@
 | 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                           | [Python](./leetcode/python/0152-Maximum-Product-Subarray/MaximumProductSubarray.py)                        | Medium     |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/)                                                         | [Python](./leetcode/python/0155-Min-Stack/MinStack.py)                                                     | Medium     |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)           | [Python](./leetcode/python/0160-Intersection-of-Two-Linked-Lists/IntersectionofTwoLinkedLists.py)          | Easy       |
+| 0169 | [Majority Element](https://leetcode.com/problems/majority-element/)                                           | [Python](./leetcode/python/0169-Majority-Element/MajorityElement.py)                                       | Easy       |
