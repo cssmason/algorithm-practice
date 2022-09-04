@@ -32,3 +32,4 @@
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/)                                           | [Python](./leetcode/python/0169-Majority-Element/MajorityElement.py)                                       | Easy       |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                   | [Python](./leetcode/python/0189-Rotate-Array/RotateArray.py)                                               | Medium     |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                     | [Python](./leetcode/python/0203-Remove-Linked-List-Elements/RemoveLinkedListElements.py)                   | Easy       |
+| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                       | [Python](./leetcode/python/0205-Isomorphic-Strings/IsomorphicStrings.py)                                   | Easy       |
