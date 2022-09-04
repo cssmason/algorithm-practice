@@ -46,3 +46,4 @@
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                   | [Python](./leetcode/python/0328-Odd-Even-Linked-List/OddEvenLinkedList.py)                                 | Medium     |
 | 0341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)                   | [Python](./leetcode/python/0341-Flatten-Nested-List-Iterator/FlattenNestedListIterator.py)                 | Medium     |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                             | [Python](./leetcode/python/0347-Top-K-Frequent-Elements/TopKFrequentElements.py)                           | Medium     |
+| 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)                       | [Python](./leetcode/python/0349-Intersection-of-Two-Arrays/IntersectionofTwoArrays.py)                     | Easy       |
