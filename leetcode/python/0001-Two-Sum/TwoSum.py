@@ -6,10 +6,11 @@ class Solution:
         :type target: int
         :rtype: List[int]
         """
-        numMap = {}
+        numMap = {} # value: index
         for index, value in enumerate(nums):
-            if target - value in numMap:
-                return [numMap[target - value], index]
+            diff = target - value
+            if diff in numMap:
+                return [numMap[diff], index]
             numMap[value] = index
 
 
