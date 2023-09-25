@@ -9,8 +9,8 @@ class Solution:
             else:
                 stack.append(c)
         return not stack
-      
-      
+
+
 if __name__ == '__main__':
     s = "()[]{}"
     print(Solution().isValid(s))
