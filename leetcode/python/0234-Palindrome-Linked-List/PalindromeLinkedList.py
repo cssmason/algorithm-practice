@@ -7,12 +7,13 @@ class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
         reverse = None
         slow = fast = head
+        # find middle (slow)
         while fast and fast.next:
             fast = fast.next.next
-            # reverse, reverse.next, slow = slow, reverse, slow.next
             slow.next, reverse, slow = reverse, slow, slow.next
         if fast:
             slow = slow.next
+        # check palindrome
         while reverse and reverse.val == slow.val:
             slow = slow.next
             reverse = reverse.next
