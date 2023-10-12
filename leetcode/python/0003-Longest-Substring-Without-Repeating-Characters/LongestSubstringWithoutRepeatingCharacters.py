@@ -10,3 +10,8 @@ class Solution:
                 substr += c
                 res = max(res, len(substr))
         return res
+
+
+if __name__ == '__main__':
+    s = "abcabcbb"
+    print(Solution().lengthOfLongestSubstring(s))
