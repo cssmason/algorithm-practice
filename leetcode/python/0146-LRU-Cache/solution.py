@@ -3,6 +3,7 @@ class Node:
         self.key, self.val = key, val
         self.prev = self.next = None
 
+
 class LRUCache:
 
     def __init__(self, capacity: int):
@@ -40,7 +41,7 @@ class LRUCache:
             lru = self.head.next
             self.remove(lru)
             del self.cache[lru.key]
-        
+
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
 # param_1 = obj.get(key)
