@@ -8,6 +8,9 @@ class Node:
 """
 
 
+from typing import Optional
+
+
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
         oldToCopy = {None: None}

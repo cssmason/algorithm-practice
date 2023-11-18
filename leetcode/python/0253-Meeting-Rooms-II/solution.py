@@ -3,6 +3,7 @@ class Interval:
         self.start = s
         self.end = e
 
+
 class Solution:
     """
     @param intervals: an array of meeting time intervals
@@ -28,7 +29,7 @@ class Solution:
 
 if __name__ == '__main__':
     intervals = []
-    intervals.append(Interval(0,30))
-    intervals.append(Interval(5,10))
-    intervals.append(Interval(15,20))
+    intervals.append(Interval(0, 30))
+    intervals.append(Interval(5, 10))
+    intervals.append(Interval(15, 20))
     print(Solution().minMeetingRooms(intervals))

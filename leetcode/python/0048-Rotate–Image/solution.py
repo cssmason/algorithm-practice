@@ -18,7 +18,7 @@ class Solution:
                 matrix[top+i][right] = topLeft
             right -= 1
             left += 1
-        return matrix
+        return matrix  # type: ignore
 
 
 if __name__ == '__main__':
