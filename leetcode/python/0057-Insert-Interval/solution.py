@@ -35,3 +35,8 @@ class Solution:
 
 #         res.append(newInterval)
 #         return res
+
+if __name__ == '__main__':
+    intervals = [[1, 3], [6, 9]]
+    newInterval = [2, 5]
+    print(Solution().insert(intervals, newInterval))
