@@ -10,3 +10,8 @@ class Solution:
                 res += symbol * count
                 num = num % base
         return res
+
+
+if __name__ == '__main__':
+    num = 3
+    print(Solution().intToRoman(num))
